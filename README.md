@@ -29,4 +29,4 @@ O sistema funciona em modo de menu interativo no terminal.
    ```bash
    gcc Sistema_De_Biblioteca.c -o biblioteca
 
-Ou de git clone no repositório, e compile no vscode.
+0. Ou de git clone no repositório.
