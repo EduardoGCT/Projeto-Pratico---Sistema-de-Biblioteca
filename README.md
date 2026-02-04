@@ -30,3 +30,4 @@ O sistema funciona em modo de menu interativo no terminal.
    gcc Sistema_De_Biblioteca.c -o biblioteca
 
 0. Ou de git clone no repositório.
+0. Ou baixe o .exe e execute no seu computador. 
